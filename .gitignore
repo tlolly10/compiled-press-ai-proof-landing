@@ -1,0 +1,10 @@
+*.pdf
+*.epub
+*.docx
+*.jpg
+*.png
+!gumroad_cover_1600x900.png
+*.zip
+*.md
+!README.md
+.DS_Store
